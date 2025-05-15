@@ -1,0 +1,6 @@
+{
+  "discord_token": "",
+  "together_ai_api_key": "",
+  "prefix": "+",
+  "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
+}
